@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drahcirtan
 - 👀 I’m interested in Web Developing and Apps Creation
-- 🌱 I’m currently learning HTML, PHP, CSS, Javascripts and Java (maybe later Kotlin)
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on building a website first then Apps
 
 <!---
